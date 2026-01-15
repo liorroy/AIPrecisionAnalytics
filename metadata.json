@@ -1,0 +1,8 @@
+{
+  "name": "Nexus AI - Precision Analytics",
+  "description": "Enterprise-grade intelligent data analysis and strategic storytelling platform powered by Gemini 3 Pro.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
